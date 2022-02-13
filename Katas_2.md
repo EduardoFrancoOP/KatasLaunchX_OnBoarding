@@ -4,11 +4,13 @@ En este ejercicio, aprenderás a utilizar entornos virtuales como una forma para
 
 *Para este ejercicio es necesario que lo ejecutes desde la terminal, línea de comandos, cmd, consola, cli, etc. de tu computadora, sé que es desafíante, pero no te preocupes ¡¡Sé que puedes lograrlo!!*
 
+*Para abrir la terminal pedes usar el botón de Windows+r y escribir "cmd" o escribir "command prompt" en el buscador de windows*
+
 ## Crear un entorno virtual
 
 Crea un entorno virtual mediante ``venv``
 
-* Ejecutar en su terminal: ``python3 -m venv env`` o bien ``python -m venv env``
+* Ejecutar en su terminal: ``python3 -m venv env`` o ``python -m venv env`` o ``py -m venv env``
 
     ```
        python3 -m venv env 
